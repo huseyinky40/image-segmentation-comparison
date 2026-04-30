@@ -101,8 +101,8 @@ This is the exact folder structure you will find in this repository:
 │   ├── 04_final_performance_report.py    # Step 4 — Metrics + comparison chart
 │   └── 05_bg_removal.py                  # Step 5 — Background removal pipeline
 │
-├── Image Processing.pdf                # Project presentation
-└── LEEN350_Project_Report_HuseyinKaya_AdaSari.pdf   # Project report
+├── presentation.pdf   # Project presentation
+└── report.pdf   # Project report
 ```
 
 ---
